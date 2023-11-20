@@ -5,7 +5,7 @@ Soit une application de gestion d’un tournoi de football. Les entités de base
 <centre>![Capture](https://github.com/abdellatif300/CroudSpring/assets/118125877/541df272-099e-457b-8b82-7e1da0d66bc1)<centre>
 
 
-<h3>Créer une application back End en Spring boot qui réalise les objectifs suivants :</h3>h3></h3><br>
+<h3>Créer une application back End en Spring boot qui réalise les objectifs suivants :</h3><br>
 1-Récupérer tous les matchs, équipes, joueurs, stades et arbitres<br>
 2-Enregistrer un nouvel arbitre, stade, match, joueur et équipe<br>
 3-Modifier et supprimer un arbitre, match, stade, équipe et joueur<br>
